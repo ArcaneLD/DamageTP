@@ -1,0 +1,6 @@
+name: DamageTP
+main: fr.arcane.damagetp.DamageTP
+version: '1.0'
+author: Arcane
+description: PokeDraco video plugin
+api-version: '1.13'
